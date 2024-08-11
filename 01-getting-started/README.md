@@ -1,5 +1,3 @@
-# Getting Started with Python
-
 ## Introduction
 
  In this section, we'll cover how to set up Python and write your first simple program.
@@ -35,10 +33,13 @@ To start programming in Python, you need to have Python installed on your comput
 To check if Python is installed correctly, open a terminal (or command prompt) and run:
 ```bash
 python --version
+```
 
 or
 ```bash
 python3 --version
+```
+
 
 ### 4. **Installing a Code Editor**
 
