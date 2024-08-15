@@ -1,0 +1,15 @@
+2024-08-15 09:19:19,561 - logAPP - DEBUG - Debugging mode activated
+2024-08-15 09:19:19,561 - logAPP - INFO - Application started
+2024-08-15 09:19:19,561 - logAPP - INFO - Performing some operations...
+2024-08-15 09:19:19,561 - logAPP - DEBUG - Operation 1 in progress
+2024-08-15 09:19:20,562 - logAPP - DEBUG - Operation 2 in progress
+2024-08-15 09:19:21,564 - logAPP - DEBUG - Operation 3 in progress
+2024-08-15 09:19:22,572 - logAPP - DEBUG - Operation 4 in progress
+2024-08-15 09:19:23,587 - logAPP - DEBUG - Operation 5 in progress
+2024-08-15 09:19:24,589 - logAPP - WARNING - This is a warning message
+2024-08-15 09:19:24,589 - logAPP - ERROR - Error encountered: An example error occurred
+Traceback (most recent call last):
+  File "u:\_python\09-logging\logging_example.py", line 38, in main
+    raise ValueError('An example error occurred')
+ValueError: An example error occurred
+2024-08-15 09:19:24,589 - logAPP - INFO - Application finished
