@@ -6,3 +6,4 @@ This is a simple command-line Number Guessing Game built in Python. In this game
 functions.
 - **`main.py`**: The main script that starts the game.
 
+ 
