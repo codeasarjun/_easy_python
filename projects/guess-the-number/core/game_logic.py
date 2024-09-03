@@ -11,7 +11,7 @@ def check_guess(number, guess):
     else:
         return "Correct!"
 
-def play_game(max_attempts=10, min_val=1, max_val=100):
+def play_game(max_attempts=4, min_val=1, max_val=100):
     number = generate_number(min_val, max_val)
     attempts = 0
 
