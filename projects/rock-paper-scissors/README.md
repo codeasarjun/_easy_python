@@ -39,3 +39,13 @@ After each round, the scores will be updated and displayed.
 At the end of all rounds, the final scores will be displayed, and the winner will be announced.
 
 
+```bash
+Welcome to Rock, Paper, Scissors!
+How many rounds would you like to play? 3
+Enter rock, paper, or scissors: rock
+Computer chose: paper
+Computer wins this round!
+Scores => You: 0 | Computer: 1
+...
+Congratulations! You won the game with a score of 2 to 1.
+```
