@@ -36,3 +36,29 @@ Upon running the script, you'll be presented with a menu offering three options:
 ### Example
 
 
+```bash
+Flashcard Quizzer
+1. Add Flashcard
+2. Start Quiz
+3. Exit
+Choose an option: 1
+Enter the question: What is capital of India?
+Enter the answer: New Delhi
+Flashcard added!
+
+Flashcard Quizzer
+1. Add Flashcard
+2. Start Quiz
+3. Exit
+Choose an option: 2
+Q: What is capital of India? New Delhi
+Correct!
+Quiz finished! Your score: 1/1
+
+Flashcard Quizzer
+1. Add Flashcard
+2. Start Quiz
+3. Exit
+Choose an option: 3
+Goodbye!
+```
